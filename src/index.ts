@@ -24,12 +24,11 @@ const run = async () => {
       }
     }
 
-    const message = await beabloo.createMessage({
+    await beabloo.createMessage({
       key,
       channelId: BEABLOO_CHANNEL
     });
   } catch (e) {
-    console.log('error at root')
     console.log(e);
   }
 };
