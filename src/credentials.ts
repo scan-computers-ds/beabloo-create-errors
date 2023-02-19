@@ -1,4 +1,4 @@
 export const credentials = {
-  username: 'scanapi',
-  password: 'B3@blo0!',
+  username: 'MY USER',
+  password: 'MY PASSWORD',
 };
