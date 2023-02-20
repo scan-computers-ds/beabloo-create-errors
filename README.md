@@ -18,4 +18,4 @@ in your terminal run `npm run dev` to run the program.
 
 ---
 
-We find that running the if you run the program with 5 "messagesToCreate" or more will probably cause an "internal server error". 
+We find that if you run the program with 5 "messagesToCreate" or more will probably cause an "internal server error". 
